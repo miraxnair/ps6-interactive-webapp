@@ -1,0 +1,13 @@
+name: webapp
+title: webapp
+username:
+account: miranair
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8477957
+bundleId: 6916300
+url: https://miranair.shinyapps.io/webapp/
+when: 1677967012.33462
+lastSyncTime: 1677967012.33463
+asMultiple: FALSE
+asStatic: FALSE
