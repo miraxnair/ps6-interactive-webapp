@@ -1,1 +1,3 @@
 # ps6-interactive-webapp
+Here is the shinyapps link: https://miranair.shinyapps.io/webapp/
+My app take the global temperature data and produces graphs and tables. The title page is telling you the purpose of the app and shows a small sample of the data, the plots page shows graphs of the temperature over the years and the widgets let you choose the region you want to see the temperature of. The widgets also allow you to change the color of the plot points. The table page shows you the table of the temperature for each year. The widgets allow you to pick the year you want to see the temperature for.
